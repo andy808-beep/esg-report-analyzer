@@ -1,0 +1,139 @@
+# ESG Keyword Taxonomy
+# Used for identifying ESG-related disclosures in SEC filings
+
+environmental:
+  climate:
+    - "carbon neutrality"
+    - "carbon neutral"
+    - "net zero"
+    - "net-zero"
+    - "Scope 1"
+    - "Scope 2"
+    - "Scope 3"
+    - "TCFD"
+    - "greenhouse gas"
+    - "GHG emissions"
+    - "emissions reduction"
+    - "climate risk"
+    - "climate change"
+    - "transition risk"
+    - "physical risk"
+    - "Paris Agreement"
+    - "decarbonization"
+    - "carbon footprint"
+    - "renewable energy"
+    - "clean energy"
+
+  biodiversity:
+    - "biodiversity"
+    - "deforestation"
+    - "ecosystem"
+    - "habitat"
+    - "species"
+    - "conservation"
+
+  resources:
+    - "water management"
+    - "water consumption"
+    - "waste reduction"
+    - "waste management"
+    - "circular economy"
+    - "recycling"
+    - "pollution"
+    - "air quality"
+    - "hazardous waste"
+
+social:
+  labor:
+    - "labor rights"
+    - "workplace safety"
+    - "occupational health"
+    - "collective bargaining"
+    - "employee engagement"
+    - "employee wellbeing"
+    - "worker safety"
+    - "fair wages"
+    - "living wage"
+
+  supply_chain:
+    - "supply chain audit"
+    - "supplier assessment"
+    - "modern slavery"
+    - "child labor"
+    - "forced labor"
+    - "supplier code of conduct"
+    - "responsible sourcing"
+    - "conflict minerals"
+
+  diversity:
+    - "diversity and inclusion"
+    - "D&I"
+    - "DEI"
+    - "gender pay gap"
+    - "pay equity"
+    - "equal opportunity"
+    - "workforce diversity"
+    - "underrepresented"
+
+  community:
+    - "community engagement"
+    - "community investment"
+    - "indigenous rights"
+    - "indigenous peoples"
+    - "human rights"
+    - "stakeholder engagement"
+    - "social impact"
+
+  health_safety:
+    - "product safety"
+    - "consumer safety"
+    - "data privacy"
+    - "cybersecurity"
+    - "customer privacy"
+
+governance:
+  board:
+    - "board diversity"
+    - "board composition"
+    - "independent directors"
+    - "board oversight"
+    - "board independence"
+    - "executive compensation"
+    - "CEO pay ratio"
+    - "shareholder rights"
+
+  ethics:
+    - "anti-corruption"
+    - "anti-bribery"
+    - "whistleblower"
+    - "whistleblowing"
+    - "code of conduct"
+    - "code of ethics"
+    - "business ethics"
+    - "ethical conduct"
+    - "compliance program"
+
+  risk_management:
+    - "material risk"
+    - "risk assessment"
+    - "enterprise risk"
+    - "risk management"
+    - "risk factors"
+    - "emerging risks"
+
+  transparency:
+    - "ESG disclosure"
+    - "sustainability reporting"
+    - "integrated reporting"
+    - "GRI"
+    - "SASB"
+    - "CDP"
+    - "materiality assessment"
+    - "ESG metrics"
+    - "non-financial reporting"
+
+  tax:
+    - "tax transparency"
+    - "tax governance"
+    - "tax strategy"
+

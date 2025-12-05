@@ -1,0 +1,53 @@
+# ESG Analyzer Settings
+
+# SEC EDGAR API Configuration
+edgar:
+  # Your contact email (required by SEC)
+  user_agent: "ESGAnalyzer your@email.com"
+  
+  # Rate limiting (SEC allows 10 requests/second)
+  requests_per_second: 10
+  
+  # Base URLs
+  base_url: "https://data.sec.gov"
+  search_url: "https://efts.sec.gov/LATEST/search-index"
+
+# Download Settings
+download:
+  # Maximum concurrent downloads
+  concurrency: 5
+  
+  # Retry failed downloads
+  max_retries: 3
+  
+  # Timeout in seconds
+  timeout: 30
+  
+  # Cache directory (relative to project root)
+  cache_dir: "cache"
+
+# Analysis Settings
+analysis:
+  # Number of sentences to include as context around a match
+  context_window: 1
+  
+  # Maximum matches to return per report
+  max_matches_per_report: 50
+  
+  # Minimum keyword length to consider (avoid false positives)
+  min_keyword_length: 3
+
+# Output Settings
+output:
+  # Output directory (relative to project root)
+  output_dir: "output"
+  
+  # Default output format (console, html, csv)
+  default_format: "console"
+  
+  # Include full context in reports
+  include_context: true
+  
+  # Highlight matching keywords
+  highlight_keywords: true
+
