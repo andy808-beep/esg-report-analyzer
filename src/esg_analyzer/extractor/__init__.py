@@ -1,2 +1,1 @@
 """Document text extraction modules."""
-
