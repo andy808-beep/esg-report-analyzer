@@ -8,11 +8,11 @@ A CLI tool that automatically discovers, downloads, and analyzes corporate ESG/s
 
 ## Features
 
-- 🔍 **Discover** — Search SEC EDGAR for 10-K filings and proxy statements
-- 📥 **Download** — Batch download filings with async concurrency
-- 📄 **Extract** — Pull text from PDF and HTML filings
-- 🎯 **Analyze** — Match 100+ ESG keywords across Environmental, Social, and Governance categories
-- 📊 **Report** — Generate console, HTML, or CSV reports with highlighted findings
+- **Discover** — Search SEC EDGAR for 10-K filings and proxy statements
+- **Download** — Batch download filings with async concurrency
+- **Extract** — Pull text from PDF and HTML filings
+- **Analyze** — Match 100+ ESG keywords across Environmental, Social, and Governance categories
+- **Report** — Generate console, HTML, or CSV reports with highlighted findings
 
 ## Quick Start
 
